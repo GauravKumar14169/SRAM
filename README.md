@@ -9,3 +9,9 @@ Static random access memory  (SRAM)  is a  static memory cell that is widely  us
 
 # 6T Bit-cell
 6T Bit-cell is a usually used industrial well-known bit cell in SRAM cache memory layout. In order to very well apprehend the format layout of the 6T Bit-cell, it's far encouraged to recognize the examine and write operations of the 6T Bit-cell. With previous expertise of examine-write operations, you can still determine the widths of the 6 transistors withinside the 6T Bit-cell the smallest bit cell unit, which contributes to the full SRAM memory location at the chip. the 6T Bit-cell.
+
+</p>
+<p align="center">
+  <img src=![sram](https://user-images.githubusercontent.com/88899069/170167154-4c566fab-7fc3-4497-ab2f-5e4675043f17.PNG)></br>
+   fig.1: REFERENCE CIRCUIT 4-bit_Flash_ADC 
+</p>
