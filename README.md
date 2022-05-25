@@ -13,7 +13,6 @@ This repository presents the design of SRAM implemented using eSim open source E
 	- [Schematics](#Schematics)
 	- [Waveform](#Waveform)
 - [Author](#author)
-- 
 # Abstract
 SRAM is a memory issue and is utilized in diverse VLSI chips because of its specific functionality to keep data. This memory cell has end up a topic of studies to satisfy the needs for destiny conversation systems.  In this  paper a  6T SRAM mobileular  is designed  via way of means of using  cadence virtuoso  EDA  device in  180nm CMOS technology. Its  overall performance traits such as  energy  dissipation,  postpone, and  energy  postpone product  are analysed. Power dissipation, postpone, and energy postpone made from the designed 6T SRAM cell
 
