@@ -12,6 +12,11 @@ Static random access memory  (SRAM)  is a  static memory cell that is widely  us
 
 </p>
 <p align="center">
-  <img src=![sram](https://user-images.githubusercontent.com/88899069/170167154-4c566fab-7fc3-4497-ab2f-5e4675043f17.PNG)></br>
+  <img src='https://user-images.githubusercontent.com/88899069/170167154-4c566fab-7fc3-4497-ab2f-5e4675043f17.PNG'></br>
+   fig.1: REFERENCE CIRCUIT 4-bit_Flash_ADC 
+</p>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/88899069/156445831-394b7a12-3a98-4a00-822e-c5292e27befb.png"></br>
    fig.1: REFERENCE CIRCUIT 4-bit_Flash_ADC 
 </p>
