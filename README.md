@@ -38,6 +38,12 @@ The transient waveform of the designed 6T SRAM cell for wordline, Bitline, y0 an
 
 </p>
 <p align="center">
+  <img src='https://user-images.githubusercontent.com/106176740/170232112-4e517323-3291-48c6-b185-1f26679ac81d.PNG'></br>
+   fig.4: 6T SRAM waveform
+</p>
+
+</p>
+<p align="center">
   <img src='https://user-images.githubusercontent.com/106176740/170215822-61f1ec28-1c12-46d6-959f-8f5cfa2dc153.PNG'></br>
    fig.4: 6T SRAM waveform
 </p>
