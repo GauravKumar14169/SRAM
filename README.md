@@ -38,20 +38,20 @@ The transient waveform of the designed 6T SRAM cell for wordline, Bitline, y0 an
 
 </p>
 <p align="center">
+  <img src='https://user-images.githubusercontent.com/106176740/170233030-9d233a28-eb57-42e5-8320-8fa0600625e6.PNG'></br>
+   fig.4: 6T SRAM waveform
+</p>
+
+</p>
+<p align="center">
   <img src='https://user-images.githubusercontent.com/106176740/170232658-222541b3-8c9f-4204-b92a-1ba4f4c882c3.PNG'></br>
-   fig.4: 6T SRAM waveform
-</p>
-
-</p>
-<p align="center">
-  <img src='https://user-images.githubusercontent.com/106176740/170215822-61f1ec28-1c12-46d6-959f-8f5cfa2dc153.PNG'></br>
-   fig.4: 6T SRAM waveform
-</p>
-
-</p>
-<p align="center">
-  <img src='https://user-images.githubusercontent.com/106176740/170217121-c60c56d3-dce6-443c-bce5-b662c57bd0ab.PNG'></br>
    fig.5: 6T SRAM waveform
+</p>
+
+</p>
+<p align="center">
+  <img src='https://user-images.githubusercontent.com/106176740/170233185-85b0bd0b-a5bd-43a2-a408-caf485ff5f4b.PNG'></br>
+   fig.6: 6T SRAM waveform
 </p>
 
 A 6T SRAM cell is designed and its performance characteristics such as power, delay, and power delay product are analysed in 180nm CMOS technology power dissipation, delay, and power delay product of the designed 6T SRAM cell. The bodily verification of all of the schematic drawn is executed and glued all violations. The 6T Bit cell format become designed with minimal and with none DRC violations. Bit cell location performed a totally critical function in determining the full SARM Core array location and SRAM memory density.
