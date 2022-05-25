@@ -25,6 +25,11 @@ Basically, pre-rate circuit shorts the Bit line and Bit line bar the use of one 
    fig.2: REFERENCE Pre-rate circuit
 </p>
 
+</p>
+<p align="center">
+  <img src='https://user-images.githubusercontent.com/106176740/170229855-d52d808a-d43e-4129-b553-c7e2a569ba0d.PNG'></br>
+   fig.2: 6T SRAM
+</p>
 
 
 </p>
