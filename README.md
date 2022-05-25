@@ -27,9 +27,14 @@ Basically, pre-rate circuit shorts the Bit line and Bit line bar the use of one 
 
 
 
-
 </p>
 <p align="center">
   <img src='https://user-images.githubusercontent.com/106176740/170215822-61f1ec28-1c12-46d6-959f-8f5cfa2dc153.PNG'></br>
+   fig.2: 6T SRAM waveform
+</p>
+
+</p>
+<p align="center">
+  <img src='https://user-images.githubusercontent.com/106176740/170217121-c60c56d3-dce6-443c-bce5-b662c57bd0ab.PNG'></br>
    fig.2: 6T SRAM waveform
 </p>
