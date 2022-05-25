@@ -16,3 +16,11 @@ Static random access memory  (SRAM)  is a  static memory cell that is widely  us
    fig.1: REFERENCE CIRCUIT 6T Bit-cell 
 </p>
 
+# Pre-rate circuit
+Basically, pre-rate circuit shorts the Bit line and Bit line bar the use of one PMOS transistor on the middle and  ultimate PMOS transistors equalize each the bit lines to VDD.
+
+</p>
+<p align="center">
+  <img src='https://user-images.githubusercontent.com/106176740/170168821-bebe27c9-d897-44ec-b855-f5547458bc46.PNG'></br>
+   fig.2: REFERENCE Pre-rate circuit
+</p>
