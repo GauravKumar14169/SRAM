@@ -25,10 +25,12 @@ Basically, pre-rate circuit shorts the Bit line and Bit line bar the use of one 
    fig.2: REFERENCE Pre-rate circuit
 </p>
 
+# Schematic
+The schematic diagram  of the  designed 6T  SRAM cell. The  6T SRAM  cell  is designed by using eSim EDA tool in 180nm CMOS technology.
 </p>
 <p align="center">
   <img src='https://user-images.githubusercontent.com/106176740/170229855-d52d808a-d43e-4129-b553-c7e2a569ba0d.PNG'></br>
-   fig.2: 6T SRAM
+   fig.3: 6T SRAM
 </p>
 
 # Waveform
@@ -37,13 +39,13 @@ The transient waveform of the designed 6T SRAM cell for wordline, Bitline, y0 an
 </p>
 <p align="center">
   <img src='https://user-images.githubusercontent.com/106176740/170215822-61f1ec28-1c12-46d6-959f-8f5cfa2dc153.PNG'></br>
-   fig.2: 6T SRAM waveform
+   fig.4: 6T SRAM waveform
 </p>
 
 </p>
 <p align="center">
   <img src='https://user-images.githubusercontent.com/106176740/170217121-c60c56d3-dce6-443c-bce5-b662c57bd0ab.PNG'></br>
-   fig.2: 6T SRAM waveform
+   fig.5: 6T SRAM waveform
 </p>
 
 A 6T SRAM cell is designed and its performance characteristics such as power, delay, and power delay product are analysed in 180nm CMOS technology power dissipation, delay, and power delay product of the designed 6T SRAM cell. The bodily verification of all of the schematic drawn is executed and glued all violations. The 6T Bit cell format become designed with minimal and with none DRC violations. Bit cell location performed a totally critical function in determining the full SARM Core array location and SRAM memory density.
